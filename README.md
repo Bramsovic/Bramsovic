@@ -30,6 +30,11 @@ Here’s a glimpse of some of the projects available on my GitHub:
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
 - **Tools & Technologies:**  
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+- **Languages / skills in the process of acquisition  :** ![Data Structures](https://img.shields.io/badge/-Data%20Structures-blue?style=flat&logo=databricks&logoColor=white)
+![Algorithms](https://img.shields.io/badge/-Algorithms-orange?style=flat&logo=chart-bar&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=flat)
+![DevOps](https://img.shields.io/badge/-DevOps-000000?logo=devops&logoColor=white&style=flat)
 
 ---
 
